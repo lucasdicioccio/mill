@@ -18,7 +18,7 @@ save me precious seconds in the future and to practice my Haskell.
 
 Currently, you have to build Mill manually.
 
-	git clone https://github.com/lucasdicioccio/mill 
+	git clone https://github.com/lucasdicioccio/mill.git
 	cd mill
 	cabal install
 
