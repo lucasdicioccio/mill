@@ -1,0 +1,4 @@
+* add parameters to control column separator
+* maybe: add support for handling quoted fields like in CSV
+	- is CSV a use case we want to support?
+* proper grammar for querying fields
